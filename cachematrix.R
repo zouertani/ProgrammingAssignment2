@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## makeCacheMatrix creates a special "vector", which contains 4 functions :
 ## 1- set : is a function that changes the vector x stored in the parent envirement (main function).
 ## 2- get : get the value of the vector x stored in the main function
