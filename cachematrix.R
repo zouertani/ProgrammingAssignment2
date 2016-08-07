@@ -1,4 +1,4 @@
-## makeCacheMatrix creates a special "vector", which contains 4 functions :
+## makeCacheMatrix creates a special "vector", which contains 4 functions  :
 ## 1- set : is a function that changes the vector x stored in the parent envirement (main function).
 ## 2- get : get the value of the vector x stored in the main function
 ## 3- setinverse : Store the value of the input in a variable m (inverse) stored in the parent envirement (main function).
